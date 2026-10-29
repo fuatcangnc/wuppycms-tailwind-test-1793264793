@@ -2,7 +2,7 @@
 	"sites": [
 		{
 			"key": "default",
-			"title": "WuppyCMS Starter",
+			"title": "Lens & Light",
 			"root": ".",
 			"contentConfig": "src/content.config.ts",
 			"collections": ["blog", "authors"]
